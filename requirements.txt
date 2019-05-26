@@ -1,0 +1,6 @@
+Flask_Cors==3.0.7
+waitress==1.2.1
+pymongo[tls,srv]==3.7.2
+gevent==1.4.0
+Flask==1.0.2
+gunicorn==19.9.0
